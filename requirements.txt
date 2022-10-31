@@ -1,4 +1,4 @@
-pillow==9.2.0
+pillow==9.3.0
 plyer==2.0.0
 pygame==2.1.2
 pyperclip==1.8.2
