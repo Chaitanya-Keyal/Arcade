@@ -8,4 +8,4 @@
 
 The project's front-end interface was developed using Tkinter and Tcl. The communication of room and game events between the server and players is facilitated through a custom TCP-based protocol. User authentication, profile pictures, and statistics are managed using a Flask-powered API. MySQL is utilized to securely store user data and gameplay metrics.
 
-PS: [@Xyreo](https://github.com/Xyreo) a.k.a. Nikhil has not contributed to this project.
+PS: [@Xyreo](https://github.com/Xyreo) has not contributed to this project.
